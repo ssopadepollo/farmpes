@@ -21,9 +21,3 @@ local Farmp = work.FarmPart
 Farmp.Touched:Connect(function()
 plrl.Character.HumanoidRootPart.CFrame = CFrame.new(-1008, -16, -532)
 end)
-
-game:GetService("Workspace").TpBack.TopOfWhiteAntArea:Destroy()
-game:GetService("Workspace").TpBack.TopOfWhiteAntArea:Destroy()
-game:GetService("Workspace").TpBack.TopOfWhiteAntArea:Destroy()
-wait(0.2)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1008, -16, -532)
