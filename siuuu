@@ -1,1 +1,0 @@
-game:GetService("Workspace").SelectionBox.Color3 = Color3.fromRGB(1, 1, 1)
